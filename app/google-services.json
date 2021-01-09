@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594650349041",
+    "project_id": "productionmanagement-b6c78",
+    "storage_bucket": "productionmanagement-b6c78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594650349041:android:4a178a528ff9ddd1121850",
+        "android_client_info": {
+          "package_name": "pl.spc.productionmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594650349041-cee6if7n1f2kr0d7994k21cl8dgtps3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYAi6HMB4f8JEP63M-ndEB4AngwH6s_1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594650349041-cee6if7n1f2kr0d7994k21cl8dgtps3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
